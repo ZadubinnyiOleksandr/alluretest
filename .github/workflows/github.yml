@@ -47,7 +47,7 @@ jobs:
           API_TOKEN_GITHUB: ${{'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'}} # Instruction where to get token is below
         with:
           source-directory: 'docs'
-          destination-github-username: 'Zadubinnyi' # Your username
+          destination-github-username: 'ZadubinnyiOleksandr' # Your username
           destination-repository-name: 'alluretest' # Name of your repo
           user-email: zadubinnyi.oleksandr@gmail.com # Your email
           target-branch: master
