@@ -1,22 +1,5 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "name" : "behaviors",
-  "children" : [ {
-    "name" : "should login with valid credentials",
-    "uid" : "e4ac292932e2e2e7",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1657089733142,
-      "stop" : 1657089737400,
-      "duration" : 4258
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "newPassed" : false,
-    "newBroken" : false,
-    "retriesCount" : 2,
-    "retriesStatusChange" : false,
-    "parameters" : [ "chrome-103.0.5060.114" ]
-  } ]
+  "children" : [ ],
+  "name" : "behaviors"
 }
